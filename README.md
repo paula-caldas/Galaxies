@@ -19,11 +19,13 @@ Essas funcionalidades proporcionam uma experiência de usuário intuitiva e visu
 O que você aprendeu construindo esse projeto? 
 
 
-- Criar um layout em grid utilizando `grid-template-columns` e ajustar espaçamentos com `gap`.
-- Organizar conteúdo em cartões estilizados com bordas, preenchimentos e tipografia.
+- Grid Gap: Definir espaçamentos diferentes entre colunas e fileiras usando row-gap, column-gap, ou o shorthand gap.
 
+- Tamanho da Caixa: Ajustar o tamanho das caixas de acordo com a largura das imagens e bordas usando grid-template-columns.
 
-Essas habilidades melhoram a estruturação de layouts e a organização do conteúdo visual.
+- Overflow: Controlar o comportamento do conteúdo quando ele excede o espaço da caixa com a propriedade overflow.
+
+Esses conhecimentos ajudam a melhorar o design e a organização de layouts em projetos web.
 
 
 ## Screenshots
